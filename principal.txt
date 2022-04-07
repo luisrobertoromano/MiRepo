@@ -1,1 +1,5 @@
 Bienvenidos a mi aplicacion
+
+1 - Noticias
+2 - Staff
+3 - Contacto
